@@ -1,4 +1,5 @@
 #!/bin/bash
+
 value1=$1 	# first parameter
 operator=$2 # second parameter
 value2=$3 	# third parameter
